@@ -1,20 +1,14 @@
-| tylerjiang.me                                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------|
-| ![https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif](https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif) |
-
-
-
-<!---<h3 align="center">
+<h3 align="center">
   Hi there 👋
 </h3>
 
-<p align="center">Welcome to my GitHub 🙂</p>
+<p align="center">Welcome to my GitHub! 🙂</p>
 <p align="center">
-  <img src="https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif" alt="A scroll-through of my website">
+  <img src="https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif" alt="A scroll-through of my website" width="400">
 </p>
-<h3 align="center">
-  Find out more about me @ <a href="https://tylerjiang.me">tylerjiang.me</a>!
-</h1> -->
+<p align="center">
+  Find out more about me @ <a href="https://tylerjiang.me">tylerjiang.me</a>
+</p>
 
 <!--
 **tyj144/tyj144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
