@@ -1,4 +1,10 @@
-<h3 align="center">
+| tylerjiang.me                                                                                                                 |
+|-------------------------------------------------------------------------------------------------------------------------------|
+| ![https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif](https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif) |
+
+
+
+<!---<h3 align="center">
   Hi there 👋
 </h3>
 
@@ -8,7 +14,7 @@
 </p>
 <h3 align="center">
   Find out more about me @ <a href="https://tylerjiang.me">tylerjiang.me</a>!
-</h1>
+</h1> -->
 
 <!--
 **tyj144/tyj144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
