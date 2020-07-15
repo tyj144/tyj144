@@ -1,8 +1,6 @@
 <h3 align="center">
   Hi there 👋
 </h3>
-
-<p align="center">Welcome to my GitHub! 🙂</p>
 <p align="center">
   <img src="https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif" alt="A scroll-through of my website" width="400">
 </p>
