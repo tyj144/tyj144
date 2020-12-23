@@ -5,7 +5,7 @@
   <img src="https://github.com/tyj144/tylerjiang.me/blob/master/demo.gif" alt="A scroll-through of my website" width="400">
 </p>
 <p align="center">
-  Find out more about me @ <a href="https://tylerjiang.me">tylerjiang.me</a>
+  Always looking for fun projects to work on. Check out some of my previous work at <a href="https://tylerjiang.me">tylerjiang.me</a>!
 </p>
 
 <!--
